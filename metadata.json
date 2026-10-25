@@ -1,0 +1,6 @@
+{
+  "name": "CampusCart",
+  "description": "Your Campus. Your Marketplace. A student-to-student marketplace for textbooks, calculators, lab coats, notes, and college essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
